@@ -1,5 +1,5 @@
 # mp42image
-<a href="https://github.com/Sajeg/mp42image/releases/download/v1.0/mp42image.exe" title="Download">
+<a href="https://github.com/Sajeg/mp42image/releases/download/v1.1/p42image.exe" title="Download">
     <img src="https://github.com/Sajeg/mp42image/blob/main/download-button-gdd95739a7_1280.png" />
 </a>
 A small commandline based mp42jpg converter with the ability to change the FPS. Written in Python.
